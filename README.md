@@ -3,7 +3,7 @@
 -- estou estudando no Alura💙
 
 
--- aprendendo a linguagem JavaScript 
+-- aprendendo a linguagem JavaScript
 💯
 
 -- Utilizo essa plataforma para organização e compartilhamento de projetos🔥
